@@ -1,0 +1,15 @@
+C:\Users\Nicho\Desktop\C#\FizzleToDo\bin\Debug\net6.0\FizzleToDo.exe
+C:\Users\Nicho\Desktop\C#\FizzleToDo\bin\Debug\net6.0\FizzleToDo.deps.json
+C:\Users\Nicho\Desktop\C#\FizzleToDo\bin\Debug\net6.0\FizzleToDo.runtimeconfig.json
+C:\Users\Nicho\Desktop\C#\FizzleToDo\bin\Debug\net6.0\FizzleToDo.dll
+C:\Users\Nicho\Desktop\C#\FizzleToDo\bin\Debug\net6.0\FizzleToDo.pdb
+C:\Users\Nicho\Desktop\C#\FizzleToDo\obj\Debug\net6.0\FizzleToDo.csproj.AssemblyReference.cache
+C:\Users\Nicho\Desktop\C#\FizzleToDo\obj\Debug\net6.0\FizzleToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicho\Desktop\C#\FizzleToDo\obj\Debug\net6.0\FizzleToDo.AssemblyInfoInputs.cache
+C:\Users\Nicho\Desktop\C#\FizzleToDo\obj\Debug\net6.0\FizzleToDo.AssemblyInfo.cs
+C:\Users\Nicho\Desktop\C#\FizzleToDo\obj\Debug\net6.0\FizzleToDo.csproj.CoreCompileInputs.cache
+C:\Users\Nicho\Desktop\C#\FizzleToDo\obj\Debug\net6.0\FizzleToDo.dll
+C:\Users\Nicho\Desktop\C#\FizzleToDo\obj\Debug\net6.0\refint\FizzleToDo.dll
+C:\Users\Nicho\Desktop\C#\FizzleToDo\obj\Debug\net6.0\FizzleToDo.pdb
+C:\Users\Nicho\Desktop\C#\FizzleToDo\obj\Debug\net6.0\FizzleToDo.genruntimeconfig.cache
+C:\Users\Nicho\Desktop\C#\FizzleToDo\obj\Debug\net6.0\ref\FizzleToDo.dll
