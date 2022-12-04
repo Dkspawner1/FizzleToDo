@@ -4,13 +4,13 @@
 
 ## All the information is stored in a serialized json file which updates as the user enters or takes away information.
 
-### the following functions are:
+### The following Functions Are:
 
-[x] Create
-[x] View
-[x] Edit
-[x] Delete
-[x] Exit program
+- [x] Create
+- [x] View
+- [x] Edit
+- [x] Delete
+- [x] Exit program
 
 ![image](https://user-images.githubusercontent.com/25106878/205512778-106b57c0-ec27-4c59-8f95-1f12b258585b.png)
 ![image](https://user-images.githubusercontent.com/25106878/205512841-d0259f95-d0d7-4a13-9df8-03064c2e0ec9.png)
