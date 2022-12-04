@@ -13,9 +13,10 @@ namespace FizzleToDo
 
         public static void Main(string[] args)
         {
-            PopulateList(todoList);
-            ToDo.SaveList(todoList);
             todoList = ToDo.LoadList();
+            if (CheckListEmpty(todoList))
+                PrePopulateList(todoList);
+            ToDo.SaveList(todoList);
 
             bool valid = false, vInt = false;
             int index = 0;
@@ -174,7 +175,7 @@ namespace FizzleToDo
         }
         private static bool hasPassed(DateTime dateToCheck) => (GetDateZeroTime(dateToCheck) < GetDateZeroTime(DateTime.Now));
         public static DateTime GetDateZeroTime(DateTime date) => new DateTime(date.Year, date.Month, date.Day, 0, 0, 0);
-        private static List<ToDo> PopulateList(List<ToDo> list)
+        private static List<ToDo> PrePopulateList(List<ToDo> list)
         {
             list.Add(new ToDo("Wash Dishes", DateTime.Now, DateTime.Now.AddDays(5)));
             list.Add(new ToDo("Walk Dog", DateTime.Now, DateTime.Now.AddHours(2)));
