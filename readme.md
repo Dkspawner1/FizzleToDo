@@ -17,7 +17,9 @@
 
 # Run Guide
 have dotnet installed on your pc
-cd into the directory and tpye 
+cd into the directory and type 
 ```
 Dotnet Run
 ```
+#Editing Guide
+Just open your favorite code editor and open the solution 
