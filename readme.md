@@ -14,3 +14,10 @@
 
 ![image](https://user-images.githubusercontent.com/25106878/205512778-106b57c0-ec27-4c59-8f95-1f12b258585b.png)
 ![image](https://user-images.githubusercontent.com/25106878/205512841-d0259f95-d0d7-4a13-9df8-03064c2e0ec9.png)
+
+# Run Guide
+have dotnet installed on your pc
+cd into the directory and tpye 
+```
+Dotnet Run
+```
