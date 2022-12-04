@@ -7,7 +7,7 @@ namespace FizzleToDo
     public partial class ToDo
     {
         [JsonIgnore(Condition = JsonIgnoreCondition.Always)]
-        private static readonly string PATH = "todo.json";
+        internal static readonly string PATH = "todo.json";
 
         // Properties / Variables
         public string TaskName { get; set; } = string.Empty;
