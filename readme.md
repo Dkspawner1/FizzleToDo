@@ -21,5 +21,5 @@ cd into the directory and type
 ```
 Dotnet Run
 ```
-#Editing Guide
+# Editing Guide
 Just open your favorite code editor and open the solution 
